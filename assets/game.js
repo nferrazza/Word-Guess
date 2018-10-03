@@ -1,6 +1,6 @@
 //Global Variables
 //Word options array
-var wordList = ["bart", "lisa", "marge", "homer", "ned flanders", "krusty the klown", "groundskeeper willy", "sideshow bob", "millhouse", "mr.burns", "patty", "selma", "apu", "moe", "mr.smithers", "edna krabappel", "barney gumble", "principal skinner", "dr.hibbert", "dr.nick", "comic book guy" ];
+var wordList = ["kenny", "butters", "cartman", "kyle", "stan", "randy" ];
 
 //Word chosen to be guessed
 var chosenWord = ""; 
